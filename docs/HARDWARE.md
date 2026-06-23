@@ -20,7 +20,7 @@ On a single-node, 32 GB RAM consumer setup, ZFS ARC overhead and write amplifica
 
 ## Technology stack
 
-See [stack_badges](../stack_badges.md) for a complete badge catalog.
+See [STACK_BADGES](../STACK_BADGES.md) for a complete badge catalog.
 
 ## Related documentation
 

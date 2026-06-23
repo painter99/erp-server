@@ -7,7 +7,7 @@ pve-node-iac/
 ├── README.md                          # Root hub — PKM navigation, global topology
 ├── .gitignore                         # Ignores .env, backups, local runtime data
 ├── MANUAL.md                          # English step-by-step deployment tutorial (Dell Optiplex)
-├── stack_badges.md                    # Technology badge catalog (shields.io)
+├── STACK_BADGES.md                    # Technology badge catalog (shields.io)
 │
 ├── docs/
 │   ├── README.md                      # Documentation index (mindmap)

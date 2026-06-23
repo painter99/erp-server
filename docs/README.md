@@ -23,6 +23,6 @@ This directory holds the written design rationale for the single-node Proxmox la
 
 * **Parent context:** [README](../README.md)
 * **Dependencies:**
-  * [stack_badges](../stack_badges.md) — for the full technology catalog
+  * [STACK_BADGES](../STACK_BADGES.md) — for the full technology catalog
   * `../docker/compose.yaml` — the stack described by these documents
   * `../proxmox/lxc/*.conf` — container profiles referenced from HOST-TUNING
