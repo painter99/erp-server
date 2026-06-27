@@ -1,5 +1,9 @@
 # pve-node-iac
 
+<p align="center">
+  <img src="docs/assets/logo.png" alt="pve-node-iac logo" width="180" height="180">
+</p>
+
 > Infrastructure as Code (IaC) repository for provisioning, tuning, and orchestrating a Proxmox VE single-node home lab environment. This repository directly manages the bare-metal host configuration, the unprivileged nesting container layer, and the application deployment stack.
 
 ![Status: Pre-Alpha — Theoretical Research Phase](https://img.shields.io/badge/Status-Pre--Alpha_·_Research_Phase-orange?style=flat-square)
